@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|`Sofronie Simina Andreea ` | Your full name
+|`Sofronie Simina Andreea ` |
 
 ## Description
 Laser Aim est un projet consistant en un mini-jeu d'entraînement à la visée et au temps de réaction. Il utilise plusieurs photorésistances, chacune équipée d'une LED qui s'allume à tour de rôle. Un score est enregistré lorsque la lumière émise par la diode laser est captée le plus rapidement possible.
