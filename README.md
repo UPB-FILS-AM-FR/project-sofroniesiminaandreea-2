@@ -38,8 +38,8 @@ Ce qui m'a conduit à créer ce projet, c'est mon plaisir pour les jeux qui stim
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-| [lib-name1](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
-| [lib-name2](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
+| [SevSeg](https://github.com/untr0py/SevSeg?utm_source=chatgpt.com) | This library turns your Arduino into a seven segment display controller. Use it to easily display numbers on your seven segment display without any additional controllers. | Used for accesing the 4 digit 7 segment display  |
+| [Default libraries](link-to-lib) | Arduino.h → default;tone() → built into Arduino (for buzzer); random() → built into Arduino; millis() → built into Arduino | Used for accesing the peripherals of the microcontroller  |
 
 ## Log
 
