@@ -13,7 +13,7 @@ Ce qui m'a conduit à créer ce projet, c'est mon plaisir pour les jeux qui stim
 ### Block diagram
 
 <!-- Make sure the path to the picture is correct -->
-![Block Diagram](schematics/block_diagram.png)
+![Block Diagram](https://imgur.com/a/cN4jopZ)
 
 ### Schematic
 
