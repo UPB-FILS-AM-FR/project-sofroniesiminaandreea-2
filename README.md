@@ -17,7 +17,7 @@ Ce qui m'a conduit à créer ce projet, c'est mon plaisir pour les jeux qui stim
 
 ### Schematic
 
-![Schematic](https://i.imgur.com/143wDFfh.png)
+![Schematic](https://i.imgur.com/I43wDFf.png)
 
 ### Components
 | Device | Usage | Price |
