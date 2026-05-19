@@ -17,7 +17,7 @@ Ce qui m'a conduit à créer ce projet, c'est mon plaisir pour les jeux qui stim
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+![Schematic](https://i.imgur.com/143wDFfh.jpg)
 
 ### Components
 | Device | Usage | Price |
